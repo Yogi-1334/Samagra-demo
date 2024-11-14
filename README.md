@@ -1,2 +1,2 @@
 # Samagra-demo
-This is a demo for samagra 
+This is a demo for samagra.
